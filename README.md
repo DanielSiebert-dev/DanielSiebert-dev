@@ -1,4 +1,4 @@
-```markdown
+
 # Greetings, Fellow DevSecOps Nerd! 👾 I'm Daniel
 
 ### Cloud Sorcerer | DevSecOps Wizard | Finance-to-Code Alchemist
