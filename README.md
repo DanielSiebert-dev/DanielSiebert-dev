@@ -15,20 +15,21 @@
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira-software&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 
 ## 🌌 About the Warlock
-With 12+ years wielding finance, controlling, and IT magic (7 years mastering SAP), I’ve conjured strategic programs, ERP rituals, and software integrations to optimize financial domains. My grimoire blends process automation, cross-functional pacts, and system enhancements with DevSecOps spells: AWS, Terraform, Docker, and CI/CD pipelines for unbreakable cloud fortresses.
+With 12+ years wielding finance, controlling, and IT magic (7 years mastering SAP), I’ve conjured strategic programs, ERP rituals, and software integrations to optimize financial realms. My grimoire now blends DevSecOps spells—AWS, Terraform, Docker, and CI/CD pipelines—with new incantations: PostgreSQL performance tuning with PgBouncer and Node.js wizardry for stable, scalable apps.  
 
-I channel JIRA, Confluence, and testing incantations to fuse finance and tech, crafting lean reporting and workflow optimizations. A veteran of leadership crusades and technical quests, I’ve led teams, sparked innovations, and driven transformations.
+I channel JIRA, Confluence, and testing runes to fuse finance and tech, crafting lean workflows and cost-saving artifacts. A veteran of leadership crusades (leading teams of 12) and technical quests, I’ve driven transformations and sparked innovations.  
 
-Now, I’m ascending to software development mastery, driven by a zeal for automation, security, and innovation. This evolution merges my financial lore, ERP expertise, and cloud sorcery to forge tools that amplify efficiency.
-
-As a member of the African Trading Club—a secretive league optimizing African trade—I apply tech to enhance operations and unlock potential in regions like Tanzania. My quest: weave DevSecOps, financial alchemy, and codecraft into scalable, epic solutions, all while dominating with PyCharm!
+My quest evolves: from financial lore to cloud mastery, merging ERP expertise with automation and security to forge efficient, unbreakable solutions. As part of the African Trading Club, I apply tech to boost trade operations in Tanzania, weaving DevSecOps and financial alchemy into epic scalable tools—all while ruling with PyCharm!  
 
 ## 🕒 My Epic Quest
 - 🌐 Mastered financial control, global IT budgeting, and ERP deployments.
-- 💻 Earned AWS Certified Cloud Practitioner, Solutions Architect, and Terraform Associate via a Cloud Engineering odyssey.
-- 🔒 Thriving as a DevSecOps intern, hacking automation, security, and infra with PyCharm as my wand.
+- 💻 Earned AWS Certified Cloud Practitioner and Solutions Architect Associate via a Cloud Engineering odyssey.
+- 🔒 Thriving as a DevSecOps intern at webeet.io, hacking automation, security, and infra with PyCharm as my wand.
+- 📊 Optimized PostgreSQL with PgBouncer, stabilized Node.js apps with Healthchecks and Smoke Tests.
 
 ## 🚀 Recent Conquest: Observability Stack
 **Timestamp: 2025-08-26 22:23 CEST**  
@@ -39,23 +40,21 @@ This cycle warped by—peak sprint mode where you blink and behold a citadel! Wi
 - ✅ IAM + Security Groups enchanted with least-privilege, zero-trust runes
 - ✅ AWS SSM Run Command casting playbooks (no SSH, no exposed IPs!)
 - ✅ Filebeat shipping logs to Logstash → Elasticsearch → Kibana
-- ✅ JSON logging + rotation etched at the app layer
+- ✅ JSON logging + rotation etched at the app layer  
 
 Each move iterated, validated with `terraform validate`, and stacked with precision. Fast, secure, testable—pure DevSecOps glory!  
 
-I relished every femtosecond—this nexus of cloud engineering, security wards, and automation is my coder’s Valhalla.  
+**Next Crusade:** Summoning Infracost for financial impact divination, blending infra and finance mastery.  
 
-**Next Crusade:** Summoning Infracost for financial impact divination. Infra + Finance = my dominion to rule!  
-
-Kudos to my squad 🙌—a razor-sharp legion sprinting at lightspeed.
+Kudos to my squad 🙌—a razor-sharp legion sprinting at lightspeed.  
 
 ## 🛡️ Skill Vault
 - **Languages & Frameworks:** Python (PyCharm), Flask, JavaScript, Node.js
 - **Databases:** SQL, PostgreSQL, SQLite
 - **Web:** HTML5, CSS3
 - **Cloud & DevSecOps:** AWS, Terraform, Docker, GitHub Actions
-- **Tools:** Git, SAP, Linux, JIRA, Confluence, Ansible, Filebeat, Logstash, Elasticsearch, Kibana
-- **Expertise:** IaC, CI/CD, Containerization, Security (IAM, VPC)
+- **Tools:** Git, SAP, Linux, JIRA, Confluence, Ansible, Filebeat, Logstash, Elasticsearch, Kibana, PgBouncer
+- **Expertise:** IaC, CI/CD, Containerization, Security (IAM, VPC), Database Optimization
 
 ## 💪 Warlord Traits
 - **Leadership:** Commanded legions of 12, forged cross-functional alliances.
@@ -65,8 +64,8 @@ Kudos to my squad 🙌—a razor-sharp legion sprinting at lightspeed.
 - **Resilience:** Survived turnarounds, conquered global campaigns.
 
 ## 🌐 Tongues of Power
-- English (C2)
-- German (C1)
+- German (Native)
+- English (C1)
 - French (A1)
 
 ## 📡 Join the Quest
@@ -81,9 +80,8 @@ Let’s code, secure, and conquer the multiverse! 🚀
 </p>
 
 ## 😂 Nerd Meme of the Cycle
-Why did the DevSecOps wizard fail at stand-up? Because he kept encrypting the punchline! 😂
+Why did the DevSecOps wizard fail at stand-up? Because he kept encrypting the punchline! 😂  
 
 ## ⏳ Last Update
-Tuesday, August 26, 2025, 22:23 CEST
-
+Monday, September 08, 2025, 11:39 AM CEST  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DanielSiebert-dev.DanielSiebert-dev)
