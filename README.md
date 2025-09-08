@@ -7,52 +7,50 @@
 ![me_coding](https://github.com/DanielSiebert-dev/DanielSiebert-dev/blob/main/Cloud%20Engineering.webp?raw=true)
 
 ## 🛠️ Core Arsenal
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) (PyCharm Overlord) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) (Cloud Practitioner & Solutions Architect) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira-software&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![FinOps](https://img.shields.io/badge/FinOps-In_Progress-FFD700?style=for-the-badge&logo=finops&label=FinOps%20Certified%20Practitioner)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) (PyCharm Overlord) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AWS Cloud Practitioner](https://images.credly.com/size/340x340/images/00634f82-4e25-4da3-89da-8d8c0f2e45e6/image.png) ![AWS Solutions Architect](https://images.credly.com/size/340x340/images/0e7a0cd6-0c8a-4f7c-9b9f-38c3e3e31e2e/image.png) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira-software&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![FinOps](https://img.shields.io/badge/FinOps-In_Progress-FFD700?style=for-the-badge)
 
 ## 🌌 About the Warlock
-With 12+ years wielding finance, controlling, and IT magic (7 years mastering SAP), I’ve conjured strategic programs, ERP rituals, and software integrations to optimize financial realms. As the warlord leading Squad C and E—commanding a legion of four fellow warriors, making us five strong—my grimoire blends DevSecOps spells—AWS, Terraform, Docker, and CI/CD pipelines—with potent runes: PostgreSQL performance tuning with PgBouncer and Node.js wizardry for scalable apps.  
+With 12+ years as a finance wizard, conjuring Budget Scrolls and Profit Potions with 7 years of SAP sorcery, I’ve optimized financial realms. Now, as the warlord of Squad C & E—leading four trusty lieutenants to make us five—I wield DevSecOps runes: AWS, Terraform, Docker, and CI/CD pipelines, blended with Deep-Tech magic like PgBouncer shields and Node.js elixirs for scalable apps.  
 
-I orchestrate our code odyssey through a Teambranch, where I review every line, merging into the Development branch after epic council approvals. A veteran of leadership crusades (leading teams of 12) and technical quests, I’ve driven transformations and sparked innovations. Currently, I’m mastering the FinOps Certified Practitioner course, enhancing my quest with financial optimization sorcery.  
-
-My journey evolves: from financial lore to cloud mastery, merging ERP expertise with automation and security. As part of the African Trading Club, I apply tech to boost trade operations in Tanzania, weaving DevSecOps and financial alchemy into epic, scalable solutions—all while ruling with PyCharm!  
+I orchestrate our code odyssey through a Teambranch, reviewing every line before merging into the Development branch after epic council nods. A veteran of ledger crusades (leading teams of 12) and tech quests, I’ve transformed chaos into gold. Currently, I’m brewing the FinOps Certified Practitioner potion to master cost optimization. As part of the African Trading Club, I cast tech spells to boost Tanzania’s trade—all while ruling with PyCharm!  
 
 ## 🕒 My Epic Quest
-- 🌐 Mastered financial control, global IT budgeting, and ERP deployments.
-- 💻 Earned AWS Certified Cloud Practitioner and Solutions Architect Associate via a Cloud Engineering odyssey.
-- 🔒 Led Squad C & E as a DevSecOps intern at webeet.io, hacking automation, security, and infra with PyCharm as my wand.
-- 📊 Optimized PostgreSQL with PgBouncer, stabilized Node.js apps with Healthchecks and Smoke Tests.
-- 💰 Pursuing FinOps Certified Practitioner to master cost optimization.
+- 🌐 Mastered financial control, global IT budgeting, and ERP deployments with a ledger’s precision.
+- 💻 Earned AWS Certified Cloud Practitioner and Solutions Architect Associate, forging my Cloud Engineering path.
+- 🔒 Led Squad C & E as a DevSecOps intern at webeet.io, hacking automation and security with Deep-Tech wands.
+- 📊 Tamed PostgreSQL with PgBouncer, stabilized Node.js apps with Healthchecks and Smoke Tests.
+- 💰 Brewing FinOps Certified Practitioner to revolutionize cost alchemy.
 
 ## 🚀 Epic Achievements
 ### Observability Citadel
-With my tribe, I forged an unbreakable observability stack, weaving Ansible playbooks, IAM with zero-trust runes, AWS SSM Run Command, and an ELK fortress (Filebeat, Logstash, Elasticsearch, Kibana) with JSON logging. Validated with `terraform validate`, it stands as a testament to speed, security, and testability.  
+With my tribe, I erected an observability fortress, weaving Ansible scrolls, IAM zero-trust runes, AWS SSM chants, and an ELK stronghold (Filebeat, Logstash, Elasticsearch, Kibana) with JSON logging. Validated with `terraform validate`, it’s a beacon of speed and security.  
 
-### PgBouncer & Node.js Mastery
-I vanquished the chaos of PgBouncer’s transaction pooling clashing with PostgreSQL prepared statements, adjusting the Node.js driver to avoid named prepares, adding healthchecks, smoke tests (200 → 503 → 200), and cleaning repo structures for lean infra. This stabilizes high-load systems, reducing downtime risks for finance realms.  
+### PgBouncer & Node.js Triumph
+I banished the chaos of PgBouncer’s transaction pooling clashing with PostgreSQL’s prepared statements, tweaking the Node.js driver, adding healthchecks, smoke tests (200 → 503 → 200), and cleaning repo clutter. A shield against finance downtime!  
 
 ### PostgreSQL Performance Forge
-Unveiled PostgreSQL’s resource curse—escalating backend processes crippling scaling—and wielded PgBouncer to shield it, limiting sockets and controlling processes. The key: the bottleneck is PostgreSQL’s hunger, not PgBouncer’s memory.  
+Unraveled PostgreSQL’s resource curse—escalating backends choking scaling—and forged PgBouncer to guard it, limiting sockets and mastering processes. The truth: the bottleneck is Postgres’s appetite, not PgBouncer’s might.  
 
-### FinOps Realm: Automated Cost Dominion
-As Squad C & E’s FinOps warlord, I orchestrated automated cost controls for our QA layer-infra, preventing runaway costs with tags and cleaning orphaned resources. Sub-quests conquered include Auto-Stop (#62), Budget Alerts (#63), Cleanup (#64), Office Hours (#65), and a Cost Dashboard (#66), all greenlit with a dedicated Postgres volume and transaction pooling.  
+### FinOps Realm: Cost Dominion
+As Squad C & E’s FinOps warlord, I orchestrated automated cost controls for QA, taming runaway expenses with tags and purging orphaned resources. Conquered Auto-Stop (#62), Budget Alerts (#63), Cleanup (#64), Office Hours (#65), and a Cost Dashboard (#66), all with a dedicated Postgres vault.  
 
 ### server.js & Infra Alignment
-Aligned our app and infra with PgBouncer-safe patterns, crafting a single Pool, removing prepared statements, and adding /health, /ready, /readyz endpoints. Docker and pgbouncer.ini were tuned, with backup-restore workflows verified, replacing inefficient pools for scalable efficiency.  
+Aligned our app and infra with PgBouncer-safe patterns, crafting a single Pool, ditching prepared statements, and adding /health, /ready, /readyz portals. Tuned Docker and pgbouncer.ini, verifying backups to banish inefficiency.  
 
 ## 🛡️ Skill Vault
 - **Languages & Frameworks:** Python (PyCharm), Flask, JavaScript, Node.js
 - **Databases:** SQL, PostgreSQL, SQLite
 - **Web:** HTML5, CSS3
 - **Cloud & DevSecOps:** AWS, Terraform, Docker, GitHub Actions
-- **Tools:** Git, SAP, Linux, JIRA, Confluence, Ansible, Filebeat, Logstash, Elasticsearch, Kibana, PgBouncer
-- **Expertise:** IaC, CI/CD, Containerization, Security (IAM, VPC), Database Optimization
+- **Tools:** Git, SAP, Linux, JIRA, Confluence, Ansible, PgBouncer, ELK Stack
+- **Expertise:** IaC, CI/CD, Containerization, Security, Database Tuning
 
 ## 💪 Warlord Traits
-- **Leadership:** Commanded legions of 12, forged cross-functional alliances as Squad C & E Teamlead, orchestrating code reviews and branch mergers.
-- **Problem-Solving:** Debugged processes, slashed costs with analysis hacks.
-- **Communication:** Delivered epic scrolls, negotiated with elders.
-- **Adaptability:** Thrived across diverse realms.
-- **Resilience:** Survived turnarounds, conquered global campaigns.
+- **Leadership:** Commanded legions of 12, forged alliances as Squad C & E Teamlead, guiding code mergers.
+- **Problem-Solving:** Turned ledger chaos into profit with tech hacks.
+- **Communication:** Delivered epic financial scrolls, negotiated with tech elders.
+- **Adaptability:** Mastered realms from finance to Deep Tech.
+- **Resilience:** Conquered turnarounds, ready for multiverse battles.
 
 ## 🌐 Tongues of Power
 - German (Native)
@@ -60,8 +58,7 @@ Aligned our app and infra with PgBouncer-safe patterns, crafting a single Pool, 
 - French (A1)
 
 ## 📡 Join the Quest
-Explore my [portfolio](https://github.com/DanielSiebert-dev?tab=repositories).  
-Let’s code, secure, and conquer the multiverse! 🚀  
+Explore my [portfolio](https://github.com/DanielSiebert-dev?tab=repositories). Let’s blend finance and code, secure the cosmos, and rule! 🚀
 
 ## 📊 Codex of Glory
 <p align="center">
@@ -71,8 +68,8 @@ Let’s code, secure, and conquer the multiverse! 🚀
 </p>
 
 ## 😂 Nerd Meme of the Cycle
-Why did the DevSecOps wizard fail at stand-up? Because he kept encrypting the punchline! 😂  
+Why did the finance wizard join DevSecOps? To turn spreadsheets into unbreakable code shields! 😂
 
 ## ⏳ Last Update
-Monday, September 08, 2025, 12:13 PM CEST  
+Monday, September 08, 2025, 12:24 PM CEST  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DanielSiebert-dev.DanielSiebert-dev)
