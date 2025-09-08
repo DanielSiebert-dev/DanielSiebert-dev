@@ -2,7 +2,7 @@
 
 ### Cloud Warlock | DevSecOps Sentinel | Finance-to-Code Transmuter | Squad C & E Warlord
 
-🔗 [LinkedIn](https://www.linkedin.com/in/daniel-siebert/) | [GitHub](https://github.com/DanielSiebert-dev)
+🔗 [LinkedIn](https://www.linkedin.com/in/daniel-siebert/)
 
 ![me_coding](https://github.com/DanielSiebert-dev/DanielSiebert-dev/blob/main/Cloud%20Engineering.webp?raw=true)
 
