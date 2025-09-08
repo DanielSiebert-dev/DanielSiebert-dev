@@ -4,8 +4,6 @@
 
 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-siebert/)
 
-![me_coding](https://github.com/DanielSiebert-dev/DanielSiebert-dev/blob/main/Cloud%20Engineering.webp?raw=true)
-
 ## 🛠️ Core Arsenal
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) (PyCharm Overlord) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws) ![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira-software&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![FinOps](https://img.shields.io/badge/FinOps-In_Progress-FFD700?style=for-the-badge)
 
