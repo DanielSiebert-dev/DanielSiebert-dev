@@ -77,7 +77,6 @@
 ## 🌟 Profile Summary
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielSiebert-dev&count_private=true&include_all_commits=true&theme=github_dark&cache_bust=1&v=9" alt="GitHub Summary Card: Repositories per Language" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanielSiebert-dev&count_private=true&include_all_commits=true&theme=github_dark&utcOffset=8&cache_bust=1&v=9" alt="GitHub Summary Card: Productive Time" />
 </p>
 
