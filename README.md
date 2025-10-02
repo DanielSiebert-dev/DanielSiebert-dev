@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&size=35&duration=4000&pause=200&color=38C2FF&center=true&vCenter=true&width=500&height=70&lines=Hi+there...%F0%9F%91%8B;Welcome+to+my+GitHub!;Cloud+%26+FinOps+Engineer+%7C+AWS+%7C+Terraform+%7C+DevSecOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&size=35&duration=4000&pause=200&color=38C2FF&center=true&vCenter=true&width=500&height=70&lines=Hi+there...%F0%9F%91%8B;Welcome+to+my+GitHub%21;Cloud+%7C+FinOps+%7C+DevSecOps+Engineer" alt="Typing SVG: Hi there, Welcome, Cloud%7CFinOps%7CDevSecOps Engineer"/>
 </h1>
 <hr/>
 
@@ -8,8 +8,8 @@
 - 🟢 **2013–2023** – 12+ years in **finance, controlling & SAP** (teamlead, global IT budgeting, ERP, up to 12 engineers)
 - 🚀 **2024** – Transition to **Cloud Engineering** (AWS, Terraform, Docker, DevSecOps)
 - 🎓 **2025** – Earned certifications:<br>
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" height="20"/>
-  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect" height="20"/>
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner Badge" height="20"/>
+  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect Badge" height="20"/>
 - 🔐 **2025** – DevSecOps Internship @ webeet.io (Squad Lead, Automation, Security, FinOps)
 - ☁️ **2025** – Pursuing **FinOps Certified Practitioner**
 - 📚 **Ongoing** – Finance meets Tech: Modular IaC, FinOps tools, secure stacks for scale
@@ -20,45 +20,45 @@
 
 **Languages:**  
 <p align="left">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+<img src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql&logoColor=white" alt="SQL Badge" />
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js Badge" />
+<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask Badge" />
+<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML Badge" />
+<img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS Badge" />
 </p>
 
 **Cloud & DevOps:**  
 <p align="left">
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat&logo=caddy&logoColor=white" />
-<img src="https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white" />
-<img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Badge" />
+<img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform Badge" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Badge" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions Badge" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux Badge" />
+<img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat&logo=caddy&logoColor=white" alt="Caddy Badge" />
+<img src="https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white" alt="WireGuard Badge" />
+<img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white" alt="Ansible Badge" />
 </p>
 
 **Databases & Tools:**  
 <p align="left">
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/-PgBouncer-000000?style=flat&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQLite-000000?style=flat&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white" />
-<img src="https://img.shields.io/badge/-SAP-0FAAFF?style=flat&logo=sap&logoColor=white" />
-<img src="https://img.shields.io/badge/ELK%20Stack-005571?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" />
+<img src="https://img.shields.io/badge/-PgBouncer-000000?style=flat&logoColor=white" alt="PgBouncer Badge" />
+<img src="https://img.shields.io/badge/-SQLite-000000?style=flat&logoColor=white" alt="SQLite Badge" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge" />
+<img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white" alt="JIRA Badge" />
+<img src="https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white" alt="Confluence Badge" />
+<img src="https://img.shields.io/badge/-SAP-0FAAFF?style=flat&logo=sap&logoColor=white" alt="SAP Badge" />
+<img src="https://img.shields.io/badge/ELK%20Stack-005571?style=flat&logoColor=white" alt="ELK Stack Badge" />
 </p>
 
 **Testing & Security:**  
 <p align="left">
-<img src="https://img.shields.io/badge/-k6-005571?style=flat&logoColor=white" />
-<img src="https://img.shields.io/badge/-Terratest-00ADD8?style=flat&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security-000000?style=flat&logoColor=white" />
-<img src="https://img.shields.io/badge/FinOps-In_Progress-FFD700?style=flat&logoColor=black" />
+<img src="https://img.shields.io/badge/-k6-005571?style=flat&logoColor=white" alt="k6 Badge" />
+<img src="https://img.shields.io/badge/-Terratest-00ADD8?style=flat&logo=go&logoColor=white" alt="Terratest Badge" />
+<img src="https://img.shields.io/badge/-Security-000000?style=flat&logoColor=white" alt="Security Badge" />
+<img src="https://img.shields.io/badge/FinOps-In_Progress-FFD700?style=flat&logoColor=black" alt="FinOps In Progress Badge" />
 </p>
 
 ---
@@ -75,12 +75,12 @@
 ## 🌟 Profile Summary
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielSiebert-dev&count_private=true&include_all_commits=true&theme=github_dark&cache_bust=1&v=9" alt="Top language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanielSiebert-dev&count_private=true&include_all_commits=true&theme=github_dark&utcOffset=8&cache_bust=1&v=9" alt="Commit stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielSiebert-dev&count_private=true&include_all_commits=true&theme=github_dark&cache_bust=1&v=9" alt="GitHub Summary Card: Repositories per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanielSiebert-dev&count_private=true&include_all_commits=true&theme=github_dark&utcOffset=8&cache_bust=1&v=9" alt="GitHub Summary Card: Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-one-livid-30.vercel.app/api?username=DanielSiebert-dev&theme=github_dark&count_private=true&custom_title=GitHub%20Stats&hide_title=true&show_icons=true&hide_border=true&hide_rank=false&card_width=339&card_height=197" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one-livid-30.vercel.app/api?username=DanielSiebert-dev&theme=github_dark&count_private=true&custom_title=GitHub%20Stats&hide_title=true&show_icons=true&hide_border=true" alt="GitHub Readme Stats" />
   <img src="https://github-readme-streak-stats-pi-olive.vercel.app?user=DanielSiebert-dev&theme=github-dark&hide_border=true&card_width=339&card_height=197" alt="GitHub Streak" />
 </p>
 
@@ -96,9 +96,9 @@
 
 # Daniel Siebert – Cloud & FinOps Engineer | AWS | Terraform | DevSecOps
 
-🔍 I bring a **unique combination of financial insight and cloud engineering**. With 12+ years in **finance, controlling & SAP** and hands-on expertise in **AWS, Terraform, Docker, and CI/CD**, I deliver solutions that are cost-effective, scalable, and secure.
+🔍 I bring a **unique combination of financial insight and cloud engineering**. With 12+ years in **finance, controlling & SAP** and hands-on expertise in **AWS, Terraform, Docker, and CI/CD**, I de[...]
 
-Currently, I focus on **building real-world systems with Infrastructure as Code, FinOps automation, and DevSecOps principles**. My philosophy: infrastructure should be **modular, observable, cost-aware, and secure by default**.
+Currently, I focus on **building real-world systems with Infrastructure as Code, FinOps automation, and DevSecOps principles**. My philosophy: infrastructure should be **modular, observable, cost-awar[...]
 
 ---
 
@@ -123,7 +123,7 @@ Currently, I focus on **building real-world systems with Infrastructure as Code,
 - 🔒 **`mvp-compose`** – Full-stack Docker Compose application (React, Node.js, Postgres) with PgBouncer, init scripts, k6 test harness, and backup/restore tooling.  
 - 🔒 **`finops-tools`** – Lambda suite for cost control (auto-stop, budget alerts, orphan cleanup, office hours).  
 - 🔒 **`infra-tests`** – Validation framework: smoke tests, governance scripts, k6 load, Terratest.  
-- 🌐 **[`terraform-aws-s3-static-site`](https://github.com/DanielSiebert-dev/terraform-aws-s3-static-site)** – Public demo: Deploy a static website via AWS S3 + CloudFront, completely managed with Terraform.
+- 🌐 **[`terraform-aws-s3-static-site`](https://github.com/DanielSiebert-dev/terraform-aws-s3-static-site)** – Public demo: Deploy a static website via AWS S3 + CloudFront, completely managed with[...]
 
 📎 While most work is private, I can share **architecture diagrams, runbooks, and walkthroughs** on request.  
 **Public Tools & Forks:**  
@@ -147,9 +147,9 @@ Currently, I focus on **building real-world systems with Infrastructure as Code,
 
 ## 🧾 Certifications
 
-- <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" height="20"/>
-- <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect" height="20"/>
-- <img src="https://img.shields.io/badge/FinOps-Certified%20Practitioner-FFD700?style=flat&logo=finops&logoColor=black" alt="FinOps Certified Practitioner" height="20"/> *(in progress)*
+- <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner Badge" height="20"/>
+- <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect Badge" height="20"/>
+- <img src="https://img.shields.io/badge/FinOps-Certified%20Practitioner-FFD700?style=flat&logo=finops&logoColor=black" alt="FinOps Certified Practitioner Badge" height="20"/> *(in progress)*
 
 ---
 
@@ -182,7 +182,7 @@ Currently, I focus on **building real-world systems with Infrastructure as Code,
 - Built **Reflection Matrix & ADRs** to ensure transparency in architecture decisions  
 
 <details>
-  <summary>🧠 Reflection Matrix / Architecture ASCII (Show more)</summary>
+  <summary>🧠 Reflection Matrix / Architecture (Show more)</summary>
   
   ```text
   +----------------+   +----------+   +---------+
@@ -191,7 +191,7 @@ Currently, I focus on **building real-world systems with Infrastructure as Code,
            |                |             |
          FinOps         CI/CD Gate     Security
   ```
-  (Diagrams & ADRs available on request)
+  <em>(Diagrams & ADRs available on request)</em>
 </details>
 
 ---
@@ -216,5 +216,7 @@ Currently, I focus on **building real-world systems with Infrastructure as Code,
 
 <div align="center">
   <h2>Thank you for visiting my profile! 🌟</h2>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DanielSiebert-dev.visitor-badge&format=true" alt="visitor badge" />
+  <p>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=DanielSiebert-dev.visitor-badge&format=true" alt="visitor badge" />
+  </p>
 </div>
