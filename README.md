@@ -97,9 +97,9 @@
 
 # Daniel Siebert – Cloud & FinOps Engineer | AWS | Terraform | DevSecOps
 
-🔍 I bring a **unique combination of financial insight and cloud engineering**. With 12+ years in **finance, controlling & SAP** and hands-on expertise in **AWS, Terraform, Docker, and CI/CD**, I de[...]
+🔍 I bring a unique combination of financial insight and cloud engineering. With 12+ years in finance, controlling & SAP and hands-on expertise in AWS, Terraform, Docker, and CI/CD, I deliver cost-effective, scalable, and secure cloud solutions that bridge financial acumen with technical innovation.
 
-Currently, I focus on **building real-world systems with Infrastructure as Code, FinOps automation, and DevSecOps principles**. My philosophy: infrastructure should be **modular, observable, cost-awar[...]
+Currently, I focus on building real-world systems with Infrastructure as Code, FinOps automation, and DevSecOps principles. My philosophy: infrastructure should be modular, observable, cost-aware, and secure by default, ensuring resilience and efficiency in every deployment.
 
 ---
 
