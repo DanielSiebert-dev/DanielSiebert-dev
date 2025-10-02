@@ -64,10 +64,9 @@
 ---
 
 ## 📊 Live GitHub Language Stats
-
 <p align="center">
-  <img src="https://github.com/DanielSiebert-dev/GitHub-Stats-Visualization/tree/master/generated/overview.svg" alt="GitHub Overview" />
-  <img src="https://github.com/DanielSiebert-dev/GitHub-Stats-Visualization/tree/master/generated/languages.svg" alt="GitHub Languages" />
+  <img src="https://raw.githubusercontent.com/DanielSiebert-dev/GitHub-Stats-Visualization/master/generated/overview.svg" alt="GitHub Overview Stats: Commits, PRs, Stars over time" />
+  <img src="https://raw.githubusercontent.com/DanielSiebert-dev/GitHub-Stats-Visualization/master/generated/languages.svg" alt="GitHub Top Languages: Breakdown by file size (e.g., Python 42%)" />
 </p>
 
 ---
