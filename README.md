@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&size=35&duration=8000&pause=400&color=38C2FF&center=true&vCenter=true&width=500&height=70&lines=Hello%20friend%20%F0%9F%91%8B%3BWelcome%20to%20my%20GitHub%21%3BCloud%20%7C%20FinOps%20%7C%20DevSecOps%20Engineer" alt="Typing SVG: Hello friend 👋, Welcome to my GitHub!, Cloud | FinOps | DevSecOps Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&size=35&duration=8000&pause=400&color=38C2FF&center=true&vCenter=true&width=600&height=70&lines=Hello%20friend%20%F0%9F%91%8B%3BWelcome%20to%20my%20GitHub%21%3BCloud%20%7C%20FinOps%20%7C%20DevSecOps%20Engineer" alt="Typing SVG: Hello friend 👋, Welcome to my GitHub!, Cloud | FinOps | DevSecOps Engineer" />
 </h1>
 <hr/>
 
