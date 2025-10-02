@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&size=35&duration=4000&pause=200&color=38C2FF&center=true&vCenter=true&width=500&height=70&lines=Hi+there...%F0%9F%91%8B;I%E2%80%99m+Daniel+Siebert!" />
 </h1>
