@@ -229,7 +229,6 @@ Currently, I focus on building real-world systems with Infrastructure as Code, F
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/daniel--siebert/)  
-- [GitHub](https://github.com/DanielSiebert-dev)  
 
 ---
 
