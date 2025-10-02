@@ -3,7 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&size=35&duration=4000&pause=200&color=38C2FF&center=true&vCenter=true&width=500&height=70&lines=Hello%20friend%20%F0%9F%91%8B%3BWelcome%20to%20my%20GitHub%21%3BCloud%20%7C%20FinOps%20%7C%20DevSecOps%20Engineer" alt="Typing SVG: Hello friend 👋, Welcome to my GitHub!" />
 
 </h1>
-
+  <div align="center">
+    <h1> Hi there, I'm Samsor Rahman👋<a href="#"></h1>
+  </div>
 
 ## 📌 My Journey
 
