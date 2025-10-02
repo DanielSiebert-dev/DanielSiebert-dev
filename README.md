@@ -184,20 +184,45 @@ Currently, I focus on building real-world systems with Infrastructure as Code, F
   <summary>🧠 Reflection Matrix / Architecture (Show more)</summary>
   
   ```text
-  +----------------+   +----------+   +---------+
-  |   VPC Module   |-->| RDS/ALB  |-->|  ASG    |
-  +----------------+   +----------+   +---------+
-           |                |             |
-         FinOps         CI/CD Gate     Security
+                        CI/CD PLANE                      CONTROL PLANE
++------------------+        |                     +------------------------------+
+| Devs / QA        |        | OIDC trust          |  IAM / KMS / SSM             |
+| pull requests    |  ----> | assumption policy   |  - Roles for CI & EC2        |
++------------------+        |                     |  - KMS keys for SSM          |
+                            v                     |  - SSM params (registry/app) |
+                    +------------------------+    +------------------------------+
+                    | GitHub Actions Runner  |
+                    | - Artifact build       |          DATA PLANE
+                    | - Push to Registry     |          (east–west & north–south)
+                    +-----------+------------+
+                                |
+                                | HTTPS push/pull (443)
+                                v
+==============================  AWS VPC (10.0.0.0/16)  ====================================
+| Public Subnet (10.0.1.0/24)                                      Private (10.0.2.0/24)     |
+|                                                                                            |
+| +------------------------------------------+     mTLS/HTTPS proxy     +---------------+    |
+| | Edge VM                                  | <------------------------ | App VM        |   |
+| | - Caddy (TLS termination, SNI routing)   |                           | - App         |   |
+| | - Split Registry (ext/int DNS)           |   outbound through NAT    | - PgBouncer   |   |
+| | - NAT (masquerade, src/dst check off)    | ----------------------->  | - Postgres    |   |
+| | - WireGuard (51820/UDP admin plane)      |                           +---------------+   |
+| | - UFW default-deny; fail2ban sshd        |                                               |
+| +------------------------------------------+                                               |
+=============================================================================================
+       |              |                  |                          |
+       |              |                  |                          |
+       v              v                  v                          v
+  Route53/NS     TLS issuance      SSM param reads             FinOps jobs
+  (A/ALIAS)      (internal CA or   (pull credentials &         (Auto-Stop, Office Hours,
+                 ACME public)      runtime config)             Orphaned Cleanup, Budgets)
   ```
-  <em>(Diagrams & ADRs available on request)</em>
 </details>
 
 ---
 
 💡 *Fun fact:*  
-> “I taught an EC2 instance to stop itself at 5 pm.  
-> The finance team wanted to hire it permanently.”  
+> I once debugged a budget spreadsheet so well, my team thought I’d invented a new currency—now they ask me to ‘code’ their expense reports!
 
 ---
 
@@ -205,7 +230,6 @@ Currently, I focus on building real-world systems with Infrastructure as Code, F
 
 - [LinkedIn](https://www.linkedin.com/in/daniel--siebert/)  
 - [GitHub](https://github.com/DanielSiebert-dev)  
-- 📧 daniel.siebert [at] example.com  
 
 ---
 
