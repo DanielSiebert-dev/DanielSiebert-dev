@@ -5,7 +5,8 @@
 
 ## 📌 My Journey
 
-- 🟢 **2013–2023** – 12+ years in **finance, controlling & SAP** (teamlead, global IT budgeting, ERP, up to 12 engineers)
+- 📚 **2007–2012** – Master’s in Business Administration at University of Erlangen-Nuremberg (equiv. MBA; focus: Business Law, Economic History, Auditing; GPA 2.2; Thesis: Mergers & Acquisitions at Daimler-Benz AG
+- 🟢 **2012–2024** – 12+ years in **finance, controlling & SAP** (teamlead, global IT budgeting, ERP, up to 12 engineers)
 - 🚀 **2024** – Transition to **Cloud Engineering** (AWS, Terraform, Docker, DevSecOps)
 - 🎓 **2025** – Earned certifications:<br>
   <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner Badge" height="20"/>
