@@ -124,11 +124,9 @@ Currently, I focus on building real-world systems with Infrastructure as Code, F
 - 🔒 **`mvp-compose`** – Full-stack Docker Compose application (React, Node.js, Postgres) with PgBouncer, init scripts, k6 test harness, and backup/restore tooling.  
 - 🔒 **`finops-tools`** – Lambda suite for cost control (auto-stop, budget alerts, orphan cleanup, office hours).  
 - 🔒 **`infra-tests`** – Validation framework: smoke tests, governance scripts, k6 load, Terratest.  
-- 🌐 **[`terraform-aws-s3-static-site`](https://github.com/DanielSiebert-dev/terraform-aws-s3-static-site)** – Public demo: Deploy a static website via AWS S3 + CloudFront, completely managed with[...]
 
-📎 While most work is private, I can share **architecture diagrams, runbooks, and walkthroughs** on request.  
+📎 While most work is private, We can talk about **architecture diagrams, runbooks, and walkthroughs** on request.  
 **Public Tools & Forks:**  
-- [GitHub Language Stats Fork](https://github.com/DanielSiebert-dev/GitHub-Stats-Visualization) – Dynamic SVG stats for commits, languages, and contributions.
 
 ---
 
@@ -136,13 +134,13 @@ Currently, I focus on building real-world systems with Infrastructure as Code, F
 
 | Area                      | Tools & Technologies                                                                            |
 |---------------------------|-------------------------------------------------------------------------------------------------|
-| **Cloud & IaC**           | AWS (VPC, RDS, S3, Lambda, IAM, CloudWatch), Terraform, AWS CDK                                |
-| **Containers & CI/CD**    | Docker, Docker Compose, GitHub Actions, Terratest                                              |
-| **Languages & Backend**   | Python, Node.js, JavaScript, Flask                                                             |
-| **Databases**             | PostgreSQL, PgBouncer, SQLite                                                                  |
-| **Monitoring & Security** | k6, Smoke Tests, IAM, Fail2ban, ELK Stack (planned), Grafana (planned)                        |
-| **FinOps**                | Cost Explorer, Budgets, Dashboards, Tag Governance                                             |
-| **Collaboration**         | Git, Linux, JIRA, Confluence, SAP (FI/CO)                                                      |
+| **Cloud & IaC**           | AWS (VPC, RDS, S3, Lambda, IAM, CloudWatch), Terraform, AWS CDK                                 |
+| **Containers & CI/CD**    | Docker, Docker Compose, GitHub Actions, Terratest                                               |
+| **Languages & Backend**   | Python, Node.js, JavaScript, Flask                                                              |
+| **Databases**             | PostgreSQL, PgBouncer, SQLite                                                                   |
+| **Monitoring & Security** | k6, Smoke Tests, IAM, Fail2ban, ELK Stack (planned), Grafana (planned)                          |
+| **FinOps**                | Cost Explorer, Budgets, Dashboards, Tag Governance                                              |
+| **Collaboration**         | Git, Linux, JIRA, Confluence, SAP (FI/CO)                                                       |
 
 ---
 
