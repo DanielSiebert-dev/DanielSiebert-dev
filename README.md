@@ -66,8 +66,8 @@
 ## 📊 Live GitHub Language Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DanielSiebert-dev/GitHub-Stats-Visualization/generated/overview.svg" alt="GitHub Overview" />
-  <img src="https://raw.githubusercontent.com/DanielSiebert-dev/GitHub-Stats-Visualization/generated/languages.svg" alt="GitHub Languages" />
+  <img src="https://github.com/DanielSiebert-dev/GitHub-Stats-Visualization/tree/master/generated/overview.svg" alt="GitHub Overview" />
+  <img src="https://github.com/DanielSiebert-dev/GitHub-Stats-Visualization/tree/master/generated/languages.svg" alt="GitHub Languages" />
 </p>
 
 ---
