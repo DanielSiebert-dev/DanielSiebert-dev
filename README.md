@@ -128,7 +128,6 @@ Currently, I focus on building real-world systems with Infrastructure as Code, F
 - 🔒 **`infra-tests`** – Validation framework: smoke tests, governance scripts, k6 load, Terratest.  
 
 📎 While most work is private, We can talk about **architecture diagrams, runbooks, and walkthroughs** on request.  
-**Public Tools & Forks:**  
 
 ---
 
