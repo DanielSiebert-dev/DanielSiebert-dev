@@ -4,7 +4,7 @@
 
 </h1>
   <div align="center">
-    <h1> I am Daniel Siebert - My friends call me Dan👋<a href="#"></h1>
+    <h1> My friends call me Dan👋<a href="#"></h1>
   </div>
 
 ## 📌 My Journey
