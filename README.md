@@ -13,7 +13,7 @@
 - 🎓 **2025** – Earned certifications:<br>
   <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner Badge" height="20"/>
   <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect Badge" height="20"/>
-- 🔐 **2025** – DevSecOps Internship @ webeet.io (Squad Lead, Automation, Security, FinOps)
+- 🔐 **2025** – DevSecOps @ webeet.io (Squad Lead, Automation, Security, FinOps)
 - ☁️ **2025** – Pursuing **FinOps Certified Practitioner**
 - 📚 **Ongoing** – Finance meets Tech: Modular IaC, FinOps tools, secure stacks for scale
 
@@ -109,6 +109,13 @@ Currently, I focus on building real-world systems with Infrastructure as Code, F
   Modular stacks: VPC, EC2, ALB, ASG, RDS, S3, IAM. Remote backends with S3+DynamoDB. IAM scoped via OIDC → least privilege.  
 - **FinOps Automation**  
   Tag-based dashboards, auto-stop Lambdas, orphaned cleanup, budget alerts, office-hour scheduling. Transparent cost visibility with Cost Explorer.  
+
+  **RDS & EC2 Optimization**  
+  Consolidated RDS (PostgreSQL) instances and tuned PgBouncer connection pools to reduce idle compute.  
+  Analyzed CloudWatch metrics (CPU, I/O, network) and right-sized EC2 fleets via Terraform.  
+  Created tagging-based Cost Explorer dashboards and Excel/Power BI exports for spend visibility.  
+  Automated license and instance-type reporting for compliance and cost governance.
+  > These initiatives reduced idle compute and improved visibility across our AWS environments by over 30 %.  
 - **DevSecOps Workflows**  
   GitHub Actions pipelines with drift detection, fmt/lint gates, smoke tests. Bastion-controlled and IaC-driven deployments.  
 - **App & Data Platform**  
@@ -151,16 +158,18 @@ Currently, I focus on building real-world systems with Infrastructure as Code, F
 
 ---
 
-## 📅 Roadmap – Q4 2025
+## 📅 Roadmap – Q3 2025
 
 - [x] Terraform infra with modular ASG + ALB  
 - [x] Auto-stop Lambda for QA environments  
 - [x] Orphaned EBS & Snapshot cleanup  
 - [x] Cost Explorer dashboards by tag  
-- [ ] Backup/restore automation with CI coverage  
-- [ ] Logging + Metrics foundation (Loki + Prometheus)  
-- [ ] Security scans in CI/CD (tfsec, Checkov, Trivy)  
+- [x] Backup/restore automation with CI coverage  
+- [x] Logging + Metrics foundation (Loki + Prometheus)  
+- [x] Security scans in CI/CD (tfsec, Checkov, Trivy)  
 
+## 📅 Roadmap – Q4 2025
+- [x] open to work
 ---
 
 ## 🌍 Languages
@@ -174,6 +183,7 @@ Currently, I focus on building real-world systems with Infrastructure as Code, F
 ## 🏆 Highlights
 
 - Led a **team of 10 engineers** building production-ready cloud infra  
+- Delivered RDS (PostgreSQL) and EC2 cost optimization playbooks used for tagging compliance and FinOps reporting.
 - Hardened **Edge paths** (Caddy TLS reverse proxy, WireGuard, SSH+mTLS)  
 - Validated NAT egress and PgBouncer performance via **governance + load tests**  
 - Implemented **FinOps automations** end-to-end (alerts, shutdowns, dashboards)  
