@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&size=35&duration=5000&pause=300&color=38C2FF&center=true&vCenter=true&width=800&height=90&lines=Hello%20friend%20%F0%9F%91%8B%3BWelcome%20to%20my%20GitHub%21%3BCloud%20%7C%20FinOps%20%7C%20DevSecOps%20Engineer" alt="Typing SVG: Hello friend 👋, Welcome to my GitHub!, Cloud | FinOps | DevSecOps Engineer" />
 </h1>
   <div align="center">
-    <h1> My friends call me Dan👋<a href="#"></h1>
+    <h1> My friends call me Dan👋</h1>
   </div>
 
 ## 📌 My Journey
@@ -110,7 +110,9 @@ Currently, I focus on building real-world systems with Infrastructure as Code, F
 - **FinOps Automation**  
   Tag-based dashboards, auto-stop Lambdas, orphaned cleanup, budget alerts, office-hour scheduling. Transparent cost visibility with Cost Explorer.  
 
-![Architecture Overview](docs/infrastructure.png)
+<p align="center">
+  <img src="docs/Infrastructure.png" alt="Architecture Overview" />
+</p>
 
   **RDS & EC2 Optimization**  
   Consolidated RDS (PostgreSQL) instances and tuned PgBouncer connection pools to reduce idle compute.  
