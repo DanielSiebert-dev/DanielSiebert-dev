@@ -70,8 +70,30 @@
 <img src="https://img.shields.io/badge/-Terratest-00ADD8?style=flat&logo=go&logoColor=white" alt="Terratest Badge" />
 <img src="https://img.shields.io/badge/-Security-000000?style=flat&logoColor=white" alt="Security Badge" />
 <img src="https://img.shields.io/badge/FinOps-In_Progress-FFD700?style=flat&logoColor=black" alt="FinOps In Progress Badge" />
+<img src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" alt="Vitest Badge" />
+<img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright Badge" />
+<img src="https://img.shields.io/badge/-TestingLibrary-E33332?style=flat&logo=testinglibrary&logoColor=white" alt="Testing Library Badge" />
+<img src="https://img.shields.io/badge/-jsdom-000000?style=flat&logo=jsdom&logoColor=white" alt="jsdom Badge" />
 </p>
 
+**Testing & Security:** 
+<p align="left">
+<img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite Badge" />
+<img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge" />
+<img src="https://img.shields.io/badge/-React_Context-61DAFB?style=flat&logo=react&logoColor=white" alt="React Context Badge" />
+<img src="https://img.shields.io/badge/-clsx-000000?style=flat&logoColor=white" alt="clsx Badge" />
+</p>
+
+**CI & Automation:** 
+<p align="left">
+<img src="https://img.shields.io/badge/-GitHub_Actions_Playwright-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions Playwright Badge" />
+<img src="https://img.shields.io/badge/-Wallaby.js-F03C15?style=flat&logo=wallaby&logoColor=white" alt="Wallaby.js Badge" />
+</p>
+
+**Audio/Video API's:** 
+<p align="left">
+<img src="https://img.shields.io/badge/-YouTube%20IFrame%20API-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube IFrame API Badge" />
+</p>
 ---
 
 ## 📊 Live GitHub Language Stats
