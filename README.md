@@ -2,8 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&size=35&duration=5000&pause=300&color=38C2FF&center=true&vCenter=true&width=800&height=90&lines=Hello%20friend%20%F0%9F%91%8B%3BWelcome%20to%20my%20GitHub%21%3BCloud%20%7C%20FinOps%20%7C%20DevSecOps%20Engineer" alt="Typing SVG: Hello friend 👋, Welcome to my GitHub!, Cloud | FinOps | DevSecOps Engineer" />
 </h1>
   <div align="center">
-    <h1> My friends call me Dan👋</h1>
+  <img src="https://img.shields.io/badge/Currently%20Building-Portfolio%20(Q4%202025)-blueviolet?style=flat-square" alt="Currently Building Badge" />
   </div>
+<p align="center">
+  <a href="https://www.siebert.cv" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Portfolio_(siebert.cv)-blueviolet?style=flat-square&logo=vercel&logoColor=white" alt="Live Portfolio Badge" />
+  </a>
+  <a href="https://github.com/DanielSiebert-dev/portfolio-private/actions/workflows/playwright.yml" target="_blank">
+    <img src="https://github.com/DanielSiebert-dev/portfolio-private/actions/workflows/playwright.yml/badge.svg" alt="Playwright CI Status Badge" />
+  </a>
+</p>
 
 ## 📌 My Journey
 
@@ -173,7 +181,26 @@ Currently, I focus on building real-world systems with Infrastructure as Code, F
 - [x] Security scans in CI/CD (tfsec, Checkov, Trivy)  
 
 ## 📅 Roadmap – Q4 2025
-- [x] open to work
+
+- [x] Persistent Audio Player with YouTube backend  
+  Designed and implemented a fully client-side, header-integrated music player using React Context and YouTube audio. Supports:
+  - Minimal UI with play/pause, skip, volume control  
+  - Persistent playback across route changes (Next.js App Router)  
+  - Smooth title fade-in and controlled marquee scrolling for long track names  
+  - Modular architecture using Phase2 feature roadmap  
+
+- [x] E2E Tests with Playwright  
+  Built Playwright test suite to validate user interactions (play, skip, loop)  
+  Enforced guardrails for GitHub Actions and CI/CD merging policies.  
+
+- [x] Creative Freelance Development  
+  - Portfolio enhanced to reflect hands-on Dev + Infra skills  
+  - Feature-driven development (TDD style) with `Vitest`, `jsdom`, and `@testing-library/react`  
+  - Focus: Clean animations, resilient components, and optimized test coverage  
+
+- [x] 🌐 Deployment Ready (Vercel)  
+  - `portfolio-private` refactored for production deployment  
+  - Analytics tracking (Q1 2026)  
 ---
 
 ## 🌍 Languages
