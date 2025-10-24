@@ -133,7 +133,8 @@ Currently, I focus on building real-world systems with Infrastructure as Code, F
 
 ---
 
-## 🛠️ Current Work
+<details>
+  <summary><strong>🔧 Current Work (Q3 2025)</strong></summary>
 
 - **Terraform-based AWS Infrastructure**  
   Modular stacks: VPC, EC2, ALB, ASG, RDS, S3, IAM. Remote backends with S3+DynamoDB. IAM scoped via OIDC → least privilege.  
@@ -157,6 +158,41 @@ Currently, I focus on building real-world systems with Infrastructure as Code, F
 - **Secrets & Access Management**  
   IAM policies, SSM Parameter Store, session-based admin paths, encryption with KMS.  
 
+</details>
+
+---
+
+<details>
+  <summary><strong>🔧 Current Work (Q4 2025)</strong></summary>
+
+- **Interactive Portfolio Website ([siebert.cv](https://www.siebert.cv))**  
+  Designed, developed, and deployed a modern, creative portfolio using **Next.js**, **Tailwind CSS**, and **Vite**. The site showcases real projects, a dynamic architecture section, and a persistent music player. Built with clean design, rapid load times, and developer-first tooling in mind.
+  - Integrated **YouTube-based audio player** with autoplay playlist, volume control, and marquee scrolling titles  
+  - Persistent global player via React Context, custom hooks, and App Router  
+  - Route-safe design and scroll handling for long track titles  
+  - Inspired by music streaming UI with strong testing guarantees  
+
+- **Phase2 Architecture: Modular Music Player Development**  
+  - Built entirely from scratch using test-driven development  
+  - Features include: fade-in/out track titles, overflow detection, looped marquee, playlist navigation, and track sync  
+  - Architecture supports component isolation and animation control for future extensions (e.g. waveform display, lyrics integration)  
+
+- **Testing & Automation**  
+  - Full **Playwright E2E suite** testing user flow: playback, transitions, page navigation, auto-loop  
+  - **Vitest** unit tests for React logic, animation states, and hook behaviors  
+  - CI integration with GitHub Actions enforcing strict merge policy (e.g. no green → no merge)  
+  - Local dev support with Wallaby.js for instant TDD feedback  
+
+- **Freelance & Personal Branding**  
+  - Portfolio illustrates strong blend of **creative frontend** and **infrastructure expertise**  
+  - Emphasis on live examples, transparent project structure, and progressive enhancement  
+  - Storytelling through README, music player, and UI interaction  
+  - Launched under custom domain: [www.siebert.cv](https://www.siebert.cv)  
+
+> This project represents the culmination of Q4 efforts in design, testing, infra, and communication. It acts as a living showcase for both frontend craft and backend rigor.
+
+</details>
+
 ---
 
 ## 📂 Key Projects
@@ -174,12 +210,12 @@ Currently, I focus on building real-world systems with Infrastructure as Code, F
 
 | Area                      | Tools & Technologies                                                                            |
 |---------------------------|-------------------------------------------------------------------------------------------------|
-| **Cloud & IaC**           | AWS (VPC, RDS, S3, Lambda, IAM, CloudWatch), Terraform, AWS CDK                                 |
-| **Containers & CI/CD**    | Docker, Docker Compose, GitHub Actions, Terratest                                               |
-| **Languages & Backend**   | Python, Node.js, JavaScript, Flask                                                              |
+| **Cloud & IaC**           | AWS (VPC, RDS, S3, Lambda, IAM, CloudWatch), Terraform, AWS CDK, SSM, KMS                       |
+| **Containers & CI/CD**    | Docker, Docker Compose, GitHub Actions, Terratest, Playwright, Vitest, Wallaby.js               |
+| **Languages & Backend**   | Python, Node.js, JavaScript, Flask, Express, React (App Router), React Context, clsx            |
 | **Databases**             | PostgreSQL, PgBouncer, SQLite                                                                   |
-| **Monitoring & Security** | k6, Smoke Tests, IAM, Fail2ban, ELK Stack (planned), Grafana (planned)                          |
-| **FinOps**                | Cost Explorer, Budgets, Dashboards, Tag Governance                                              |
+| **Monitoring & Security** | k6, Smoke Tests, IAM, Fail2ban, ELK Stack (planned), Grafana (planned), GitHub Actions CI/CD    |
+| **FinOps**                | Cost Explorer, Budgets, Dashboards, Tag Governance, Auto-Stop Lambdas, Orphaned Cleanup Jobs    |
 | **Collaboration**         | Git, Linux, JIRA, Confluence, SAP (FI/CO)                                                       |
 
 ---
@@ -191,8 +227,8 @@ Currently, I focus on building real-world systems with Infrastructure as Code, F
 - <img src="https://img.shields.io/badge/FinOps-Certified%20Practitioner-FFD700?style=flat&logo=finops&logoColor=black" alt="FinOps Certified Practitioner Badge" height="20"/> *(in progress)*
 
 ---
-
-## 📅 Roadmap – Q3 2025
+<details>
+  <summary><strong>📅 Roadmap – Q3 2025</strong></summary>
 
 - [x] Terraform infra with modular ASG + ALB  
 - [x] Auto-stop Lambda for QA environments  
@@ -202,7 +238,10 @@ Currently, I focus on building real-world systems with Infrastructure as Code, F
 - [x] Logging + Metrics foundation (Loki + Prometheus)  
 - [x] Security scans in CI/CD (tfsec, Checkov, Trivy)  
 
-## 📅 Roadmap – Q4 2025
+</details>
+
+<details>
+  <summary><strong>📅 Roadmap – Q4 2025</strong></summary>
 
 - [x] Persistent Audio Player with YouTube backend  
   Designed and implemented a fully client-side, header-integrated music player using React Context and YouTube audio. Supports:
@@ -223,6 +262,9 @@ Currently, I focus on building real-world systems with Infrastructure as Code, F
 - [x] 🌐 Deployment Ready (Vercel)  
   - `portfolio-private` refactored for production deployment  
   - Analytics tracking (Q1 2026)  
+
+</details>
+
 ---
 
 ## 🌍 Languages
@@ -291,10 +333,11 @@ Currently, I focus on building real-world systems with Infrastructure as Code, F
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/daniel--siebert/)  
+- [Website](https://www.siebert.cv)
 
 ---
 
-*Last updated: October 03, 2025*  
+*Last updated: October 24, 2025*  
 
 ---
 
