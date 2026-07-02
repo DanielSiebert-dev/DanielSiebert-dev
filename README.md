@@ -1,292 +1,63 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&size=35&duration=5000&pause=300&color=38C2FF&center=true&vCenter=true&width=800&height=90&lines=Hello%20friend%20%F0%9F%91%8B%3BWelcome%20to%20my%20GitHub%21%3BCloud%20%7C%20FinOps%20%7C%20DevSecOps%20Engineer" alt="Typing SVG: Hello friend 👋, Welcome to my GitHub!, Cloud | FinOps | DevSecOps Engineer" />
-</h1>
-  <div align="center">
-  <img src="https://img.shields.io/badge/Currently%20Building-Portfolio%20(Q4%202025)-blueviolet?style=flat-square" alt="Currently Building Badge" />
-  </div>
-<p align="center">
-  <a href="https://www.siebert.cv" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Portfolio_(siebert.cv)-blueviolet?style=flat-square&logo=vercel&logoColor=white" alt="Live Portfolio Badge" />
-  </a>
-  <a href="https://github.com/DanielSiebert-dev/portfolio-private/actions/workflows/playwright.yml" target="_blank">
-    <img src="https://github.com/DanielSiebert-dev/portfolio-private/actions/workflows/playwright.yml/badge.svg" alt="Playwright CI Status Badge" />
-  </a>
-</p>
-
-## 📌 My Journey
-
-- 📚 **2007–2012** – Master’s in Business Administration at University of Erlangen-Nuremberg (equiv. MBA; focus: Business Law, Economic History, Auditing; GPA 2.2; Thesis: Mergers & Acquisitions at Daimler-Benz AG
-- 🟢 **2012–2024** – 12+ years in **finance, controlling & SAP** (teamlead, global IT budgeting, ERP, up to 12 engineers)
-- 🚀 **2024** – Transition to **Cloud Engineering** (AWS, Terraform, Docker, DevSecOps)
-- 🎓 **2025** – Earned certifications:<br>
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner Badge" height="20"/>
-  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect Badge" height="20"/>
-- 🔐 **2025** – DevSecOps @ webeet.io (Squad Lead, Automation, Security, FinOps)
-- ☁️ **2025** – Pursuing **FinOps Certified Practitioner**
-- 📚 **Ongoing** – Finance meets Tech: Modular IaC, FinOps tools, secure stacks for scale
-
----
-
-## 🛠️ Tech Toolbox
-
-**Languages:**  
-<p align="left">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript Badge" />
-<img src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql&logoColor=white" alt="SQL Badge" />
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js Badge" />
-<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask Badge" />
-<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML Badge" />
-<img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS Badge" />
-</p>
-
-**Cloud & DevOps:**  
-<p align="left">
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Badge" />
-<img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform Badge" />
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Badge" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions Badge" />
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux Badge" />
-<img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat&logo=caddy&logoColor=white" alt="Caddy Badge" />
-<img src="https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white" alt="WireGuard Badge" />
-<img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white" alt="Ansible Badge" />
-</p>
-
-**Databases & Tools:**  
-<p align="left">
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" />
-<img src="https://img.shields.io/badge/-PgBouncer-000000?style=flat&logoColor=white" alt="PgBouncer Badge" />
-<img src="https://img.shields.io/badge/-SQLite-000000?style=flat&logoColor=white" alt="SQLite Badge" />
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge" />
-<img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white" alt="JIRA Badge" />
-<img src="https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white" alt="Confluence Badge" />
-<img src="https://img.shields.io/badge/-SAP-0FAAFF?style=flat&logo=sap&logoColor=white" alt="SAP Badge" />
-<img src="https://img.shields.io/badge/ELK%20Stack-005571?style=flat&logoColor=white" alt="ELK Stack Badge" />
-</p>
-
-**Testing & Security:**  
-<p align="left">
-<img src="https://img.shields.io/badge/-k6-005571?style=flat&logoColor=white" alt="k6 Badge" />
-<img src="https://img.shields.io/badge/-Terratest-00ADD8?style=flat&logo=go&logoColor=white" alt="Terratest Badge" />
-<img src="https://img.shields.io/badge/-Security-000000?style=flat&logoColor=white" alt="Security Badge" />
-<img src="https://img.shields.io/badge/FinOps-In_Progress-FFD700?style=flat&logoColor=black" alt="FinOps In Progress Badge" />
-<img src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" alt="Vitest Badge" />
-<img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright Badge" />
-<img src="https://img.shields.io/badge/-TestingLibrary-E33332?style=flat&logo=testinglibrary&logoColor=white" alt="Testing Library Badge" />
-<img src="https://img.shields.io/badge/-jsdom-000000?style=flat&logo=jsdom&logoColor=white" alt="jsdom Badge" />
-</p>
-
-**Testing & Security:** 
-<p align="left">
-<img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite Badge" />
-<img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge" />
-<img src="https://img.shields.io/badge/-React_Context-61DAFB?style=flat&logo=react&logoColor=white" alt="React Context Badge" />
-<img src="https://img.shields.io/badge/-clsx-000000?style=flat&logoColor=white" alt="clsx Badge" />
-</p>
-
-**CI & Automation:** 
-<p align="left">
-<img src="https://img.shields.io/badge/-GitHub_Actions_Playwright-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions Playwright Badge" />
-<img src="https://img.shields.io/badge/-Wallaby.js-F03C15?style=flat&logo=wallaby&logoColor=white" alt="Wallaby.js Badge" />
-</p>
-
-**Audio/Video API's:** 
-<p align="left">
-<img src="https://img.shields.io/badge/-YouTube%20IFrame%20API-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube IFrame API Badge" />
-</p>
----
-
-## 📊 Live GitHub Language Stats
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DanielSiebert-dev/GitHub-Stats-Visualization/master/generated/overview.svg" alt="GitHub Overview Stats: Commits, PRs, Stars over time" />
-  <img src="https://raw.githubusercontent.com/DanielSiebert-dev/GitHub-Stats-Visualization/master/generated/languages.svg" alt="GitHub Top Languages: Breakdown by file size (e.g., Python 42%)" />
-</p>
-
----
-
-## 🌟 Profile Summary
+<h1 align="center">Daniel Siebert</h1>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanielSiebert-dev&count_private=true&include_all_commits=true&theme=github_dark&utcOffset=8&cache_bust=1&v=9" alt="GitHub Summary Card: Productive Time" />
+  <strong>Cloud FinOps · Infrastructure · AI Automation</strong><br/>
+  Executive profile & consulting → <a href="https://siebert.cv">siebert.cv</a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-one-livid-30.vercel.app/api?username=DanielSiebert-dev&theme=github_dark&count_private=true&custom_title=GitHub%20Stats&hide_title=true&show_icons=true&hide_border=true" alt="GitHub Readme Stats" />
-  <img src="https://github-readme-streak-stats-pi-olive.vercel.app?user=DanielSiebert-dev&theme=github-dark&hide_border=true&card_width=339&card_height=197" alt="GitHub Streak" />
+  <a href="https://siebert.cv"><img src="https://img.shields.io/badge/Portfolio-siebert.cv-38C2FF?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://github.com/DanielSiebert-dev/tender-agent"><img src="https://img.shields.io/badge/Flagship-tender--agent-7B42BC?style=flat-square" alt="Tender Agent" /></a>
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS SA" />
+  <img src="https://img.shields.io/badge/FinOps-Certified_Practitioner-FFD700?style=flat-square&logoColor=black" alt="FinOps CP" />
 </p>
 
 ---
 
-## 🏆 Github Trophy
+## What this profile is for
 
-<p align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=DanielSiebert-dev&theme=juicyfresh&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true&no-bg=true&margin-w=6&card_width=120" alt="GitHub Trophy" />
-</p>
+GitHub is my **technical workspace** — code, architecture, issues, and reproducible experiments.  
+For CV, consulting, publications, and the full story: **[siebert.cv](https://siebert.cv)** (DE/EN).
+
+---
+
+## Open repos worth a look
+
+| Repo | What it does |
+|------|----------------|
+| [**tender-agent**](https://github.com/DanielSiebert-dev/tender-agent) | Multi-agent EU procurement pipeline — LangGraph, Grok (xAI), human-in-the-loop chapter drafting |
+| [**portfolio-private**](https://github.com/DanielSiebert-dev/portfolio-private) | [siebert.cv](https://siebert.cv) — bilingual Next.js site, content-as-code, HTTP E2E checks |
+| [**GitHub-Stats-Visualization**](https://github.com/DanielSiebert-dev/GitHub-Stats-Visualization) | Custom language & activity charts for GitHub profiles |
+| [**InstaScraper**](https://github.com/DanielSiebert-dev/InstaScraper) | Modular scraping with proxy rotation, scheduling, SQLite persistence |
+| [**AWS_grocery**](https://github.com/DanielSiebert-dev/AWS_grocery) | Terraform AWS stack — immutable EC2 rollouts, RDS, CI/CD deployment |
+
+Most production infra (`layered-infra`, FinOps Lambdas, compose stacks) stays private — happy to walk through diagrams and runbooks on request.
 
 ---
 
-# Cloud & FinOps Engineer
+## Technical focus
 
-🔍 I bring a unique combination of financial insight and cloud engineering. With 12+ years in finance, controlling & SAP and hands-on expertise in AWS, Terraform, Docker, and CI/CD, I deliver cost-effective, scalable, and secure cloud solutions that bridge financial acumen with technical innovation.
-
-Currently, I focus on building real-world systems with Infrastructure as Code, FinOps automation, and DevSecOps principles. My philosophy: infrastructure should be modular, observable, cost-aware, and secure by default, ensuring resilience and efficiency in every deployment.
+| Area | Tools |
+|------|-------|
+| **Cloud & IaC** | AWS, Terraform, Docker, VPC, RDS, Lambda, IAM/OIDC |
+| **FinOps** | Cost Explorer, tagging governance, budgets, auto-stop, right-sizing |
+| **Engineering** | Python, TypeScript, Next.js, PostgreSQL, Playwright |
+| **AI & automation** | LangGraph, Grok, n8n, Obsidian workflows, document pipelines |
+| **Edge & ops** | Caddy, WireGuard, SSH+mTLS, GitHub Actions, k6, Terratest |
 
 ---
+
+## Reference architecture
+
+Private AWS environments I design around a **split edge + app plane** — TLS at the edge, east-west traffic in private subnets, FinOps jobs on the control plane:
 
 <details>
-  <summary><strong>🔧 Current Work (Q3 2025)</strong></summary>
+  <summary><strong>CI/CD · Control · Data plane (click to expand)</strong></summary>
 
-- **Terraform-based AWS Infrastructure**  
-  Modular stacks: VPC, EC2, ALB, ASG, RDS, S3, IAM. Remote backends with S3+DynamoDB. IAM scoped via OIDC → least privilege.  
-- **FinOps Automation**  
-  Tag-based dashboards, auto-stop Lambdas, orphaned cleanup, budget alerts, office-hour scheduling. Transparent cost visibility with Cost Explorer.  
+  <p align="center">
+    <img src="docs/Infrastructure.png" alt="AWS reference architecture" />
+  </p>
 
-<p align="center">
-  <img src="docs/Infrastructure.png" alt="Architecture Overview" />
-</p>
-
-  **RDS & EC2 Optimization**  
-  Consolidated RDS (PostgreSQL) instances and tuned PgBouncer connection pools to reduce idle compute.  
-  Analyzed CloudWatch metrics (CPU, I/O, network) and right-sized EC2 fleets via Terraform.  
-  Created tagging-based Cost Explorer dashboards and Excel/Power BI exports for spend visibility.  
-  Automated license and instance-type reporting for compliance and cost governance.
-  > These initiatives reduced idle compute and improved visibility across our AWS environments by over 30 %.  
-- **DevSecOps Workflows**  
-  GitHub Actions pipelines with drift detection, fmt/lint gates, smoke tests. Bastion-controlled and IaC-driven deployments.  
-- **App & Data Platform**  
-  Docker Compose stacks (Node.js + Postgres + PgBouncer). Connection pooling validated with **k6** load tests (p90 <200ms). Runbooks for DB admin via SSH+mTLS.  
-- **Secrets & Access Management**  
-  IAM policies, SSM Parameter Store, session-based admin paths, encryption with KMS.  
-
-</details>
-
----
-
-<details>
-  <summary><strong>🔧 Current Work (Q4 2025)</strong></summary>
-
-- **Interactive Portfolio Website ([siebert.cv](https://www.siebert.cv))**  
-  Designed, developed, and deployed a modern, creative portfolio using **Next.js**, **Tailwind CSS**, and **Vite**. The site showcases real projects, a dynamic architecture section, and a persistent music player. Built with clean design, rapid load times, and developer-first tooling in mind.
-  - Integrated **YouTube-based audio player** with autoplay playlist, volume control, and marquee scrolling titles  
-  - Persistent global player via React Context, custom hooks, and App Router  
-  - Route-safe design and scroll handling for long track titles  
-  - Inspired by music streaming UI with strong testing guarantees  
-
-- **Phase2 Architecture: Modular Music Player Development**  
-  - Built entirely from scratch using test-driven development  
-  - Features include: fade-in/out track titles, overflow detection, looped marquee, playlist navigation, and track sync  
-  - Architecture supports component isolation and animation control for future extensions (e.g. waveform display, lyrics integration)  
-
-- **Testing & Automation**  
-  - Full **Playwright E2E suite** testing user flow: playback, transitions, page navigation, auto-loop  
-  - **Vitest** unit tests for React logic, animation states, and hook behaviors  
-  - CI integration with GitHub Actions enforcing strict merge policy (e.g. no green → no merge)  
-  - Local dev support with Wallaby.js for instant TDD feedback  
-
-- **Freelance & Personal Branding**  
-  - Portfolio illustrates strong blend of **creative frontend** and **infrastructure expertise**  
-  - Emphasis on live examples, transparent project structure, and progressive enhancement  
-  - Storytelling through README, music player, and UI interaction  
-  - Launched under custom domain: [www.siebert.cv](https://www.siebert.cv)  
-
-> This project represents the culmination of Q4 efforts in design, testing, infra, and communication. It acts as a living showcase for both frontend craft and backend rigor.
-
-</details>
-
----
-
-## 📂 Key Projects
-
-- 🔒 **`layered-infra`** – Production-grade AWS infra with Terraform modules, Lambdas for FinOps, OIDC-secured CI/CD, runbooks, and ADRs.  
-- 🔒 **`mvp-compose`** – Full-stack Docker Compose application (React, Node.js, Postgres) with PgBouncer, init scripts, k6 test harness, and backup/restore tooling.  
-- 🔒 **`finops-tools`** – Lambda suite for cost control (auto-stop, budget alerts, orphan cleanup, office hours).  
-- 🔒 **`infra-tests`** – Validation framework: smoke tests, governance scripts, k6 load, Terratest.  
-
-📎 While most work is private, We can talk about **architecture diagrams, runbooks, and walkthroughs** on request.  
-
----
-
-## 📊 Tech Stack
-
-| Area                      | Tools & Technologies                                                                            |
-|---------------------------|-------------------------------------------------------------------------------------------------|
-| **Cloud & IaC**           | AWS (VPC, RDS, S3, Lambda, IAM, CloudWatch), Terraform, AWS CDK, SSM, KMS                       |
-| **Containers & CI/CD**    | Docker, Docker Compose, GitHub Actions, Terratest, Playwright, Vitest, Wallaby.js               |
-| **Languages & Backend**   | Python, Node.js, JavaScript, Flask, Express, React (App Router), React Context, clsx            |
-| **Databases**             | PostgreSQL, PgBouncer, SQLite                                                                   |
-| **Monitoring & Security** | k6, Smoke Tests, IAM, Fail2ban, ELK Stack (planned), Grafana (planned), GitHub Actions CI/CD    |
-| **FinOps**                | Cost Explorer, Budgets, Dashboards, Tag Governance, Auto-Stop Lambdas, Orphaned Cleanup Jobs    |
-| **Collaboration**         | Git, Linux, JIRA, Confluence, SAP (FI/CO)                                                       |
-
----
-
-## 🧾 Certifications
-
-- <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner Badge" height="20"/>
-- <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect Badge" height="20"/>
-- <img src="https://img.shields.io/badge/FinOps-Certified%20Practitioner-FFD700?style=flat&logo=finops&logoColor=black" alt="FinOps Certified Practitioner Badge" height="20"/> *(in progress)*
-
----
-<details>
-  <summary><strong>📅 Roadmap – Q3 2025</strong></summary>
-
-- [x] Terraform infra with modular ASG + ALB  
-- [x] Auto-stop Lambda for QA environments  
-- [x] Orphaned EBS & Snapshot cleanup  
-- [x] Cost Explorer dashboards by tag  
-- [x] Backup/restore automation with CI coverage  
-- [x] Logging + Metrics foundation (Loki + Prometheus)  
-- [x] Security scans in CI/CD (tfsec, Checkov, Trivy)  
-
-</details>
-
-<details>
-  <summary><strong>📅 Roadmap – Q4 2025</strong></summary>
-
-- [x] Persistent Audio Player with YouTube backend  
-  Designed and implemented a fully client-side, header-integrated music player using React Context and YouTube audio. Supports:
-  - Minimal UI with play/pause, skip, volume control  
-  - Persistent playback across route changes (Next.js App Router)  
-  - Smooth title fade-in and controlled marquee scrolling for long track names  
-  - Modular architecture using Phase2 feature roadmap  
-
-- [x] E2E Tests with Playwright  
-  Built Playwright test suite to validate user interactions (play, skip, loop)  
-  Enforced guardrails for GitHub Actions and CI/CD merging policies.  
-
-- [x] Creative Freelance Development  
-  - Portfolio enhanced to reflect hands-on Dev + Infra skills  
-  - Feature-driven development (TDD style) with `Vitest`, `jsdom`, and `@testing-library/react`  
-  - Focus: Clean animations, resilient components, and optimized test coverage  
-
-- [x] 🌐 Deployment Ready (Vercel)  
-  - `portfolio-private` refactored for production deployment  
-  - Analytics tracking (Q1 2026)  
-
-</details>
-
----
-
-## 🌍 Languages
-
-- 🇩🇪 German: Native  
-- 🇬🇧 English: C1  
-- 🇫🇷 French: A1  
-
----
-
-## 🏆 Highlights
-
-- Led a **team of 10 engineers** building production-ready cloud infra  
-- Delivered RDS (PostgreSQL) and EC2 cost optimization playbooks used for tagging compliance and FinOps reporting.
-- Hardened **Edge paths** (Caddy TLS reverse proxy, WireGuard, SSH+mTLS)  
-- Validated NAT egress and PgBouncer performance via **governance + load tests**  
-- Implemented **FinOps automations** end-to-end (alerts, shutdowns, dashboards)  
-- Built **Reflection Matrix & ADRs** to ensure transparency in architecture decisions  
-
-<details>
-  <summary>🧠 Reflection Matrix / Architecture (Show more)</summary>
-  
   ```text
                         CI/CD PLANE                      CONTROL PLANE
 +------------------+        |                     +------------------------------+
@@ -315,35 +86,36 @@ Currently, I focus on building real-world systems with Infrastructure as Code, F
 | +------------------------------------------+                                               |
 =============================================================================================
        |              |                  |                          |
-       |              |                  |                          |
        v              v                  v                          v
   Route53/NS     TLS issuance      SSM param reads             FinOps jobs
   (A/ALIAS)      (internal CA or   (pull credentials &         (Auto-Stop, Office Hours,
                  ACME public)      runtime config)             Orphaned Cleanup, Budgets)
   ```
+
 </details>
 
 ---
 
-💡 *Fun fact:*  
-> I once debugged a budget spreadsheet so well, my team thought I’d invented a new currency—now they ask me to ‘code’ their expense reports!
+## Start here
+
+| If you want to… | Go here |
+|-----------------|---------|
+| **EU tenders + multi-agent AI** | [tender-agent — 5-min setup](https://github.com/DanielSiebert-dev/tender-agent#try-in-5-minutes) |
+| **Infra & FinOps patterns** | [Reference architecture](#reference-architecture) below |
+| **Consulting / freelance** | [siebert.cv/consulting](https://siebert.cv/en/consulting) |
+| **Full CV, projects, publications** | [siebert.cv](https://siebert.cv) |
+
+Bug reports, ideas, or architecture questions → open an **issue** on the matching repo (tender-agent for AI/procurement, portfolio-private for the website).
 
 ---
 
-## 📫 Contact
+## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/daniel--siebert/)  
-- [Website](https://www.siebert.cv)
-
----
-
-*Last updated: October 24, 2025*  
+- **Consulting:** [cal.com/daniel-siebert-for-you](https://cal.com/daniel-siebert-for-you/30min)
+- **LinkedIn:** [daniel--siebert](https://www.linkedin.com/in/daniel--siebert/)
+- **Email:** [daniel@siebert.cv](mailto:daniel@siebert.cv)
+- **Issues & PRs:** preferred for anything code-related
 
 ---
 
-<div align="center">
-  <h2>Thank you for visiting my profile! 🌟</h2>
-  <p>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=DanielSiebert-dev.visitor-badge&format=true" alt="visitor badge" />
-  </p>
-</div>
+*Last updated: July 2026*
