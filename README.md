@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://siebert.cv"><img src="https://img.shields.io/badge/Portfolio-siebert.cv-38C2FF?style=flat-square" alt="Portfolio" /></a>
-  <a href="https://github.com/DanielSiebert-dev/tender-agent"><img src="https://img.shields.io/badge/Flagship-tender--agent-7B42BC?style=flat-square" alt="Tender Agent" /></a>
+  <a href="https://siebert.cv/en/projects"><img src="https://img.shields.io/badge/Flagship-Tender_Agent_(private)-7B42BC?style=flat-square" alt="Tender Agent" /></a>
   <img src="https://img.shields.io/badge/AWS-Solutions_Architect-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS SA" />
   <img src="https://img.shields.io/badge/FinOps-Certified_Practitioner-FFD700?style=flat-square&logoColor=black" alt="FinOps CP" />
 </p>
@@ -21,17 +21,21 @@ For CV, consulting, publications, and the full story: **[siebert.cv](https://sie
 
 ---
 
-## Open repos worth a look
+## Flagship (private, in active use)
+
+| Project | What it does |
+|---------|----------------|
+| [**Tender Agent**](https://siebert.cv/en/projects) | Multi-agent EU procurement pipeline — LangGraph, Grok (xAI), human-in-the-loop chapter drafting. **Private** while in production use; context on [siebert.cv](https://siebert.cv/en/projects). |
+
+## Public repos
 
 | Repo | What it does |
 |------|----------------|
-| [**tender-agent**](https://github.com/DanielSiebert-dev/tender-agent) | Multi-agent EU procurement pipeline — LangGraph, Grok (xAI), human-in-the-loop chapter drafting |
-| [**portfolio-private**](https://github.com/DanielSiebert-dev/portfolio-private) | [siebert.cv](https://siebert.cv) — bilingual Next.js site, content-as-code, HTTP E2E checks |
-| [**GitHub-Stats-Visualization**](https://github.com/DanielSiebert-dev/GitHub-Stats-Visualization) | Custom language & activity charts for GitHub profiles |
-| [**InstaScraper**](https://github.com/DanielSiebert-dev/InstaScraper) | Modular scraping with proxy rotation, scheduling, SQLite persistence |
 | [**AWS_grocery**](https://github.com/DanielSiebert-dev/AWS_grocery) | Terraform AWS stack — immutable EC2 rollouts, RDS, CI/CD deployment |
+| [**InstaScraper**](https://github.com/DanielSiebert-dev/InstaScraper) | Modular scraping with proxy rotation, scheduling, SQLite persistence |
+| [**GitHub-Stats-Visualization**](https://github.com/DanielSiebert-dev/GitHub-Stats-Visualization) | Custom language & activity charts for GitHub profiles |
 
-Most production infra (`layered-infra`, FinOps Lambdas, compose stacks) stays private — happy to walk through diagrams and runbooks on request.
+Other production work (`layered-infra`, FinOps Lambdas, [siebert.cv](https://siebert.cv) codebase) stays private — architecture walkthroughs on request.
 
 ---
 
@@ -100,12 +104,13 @@ Private AWS environments I design around a **split edge + app plane** — TLS at
 
 | If you want to… | Go here |
 |-----------------|---------|
-| **EU tenders + multi-agent AI** | [tender-agent — 5-min setup](https://github.com/DanielSiebert-dev/tender-agent#try-in-5-minutes) |
+| **EU tenders + multi-agent AI** | [siebert.cv/projects](https://siebert.cv/en/projects) — Tender Agent (private flagship) |
 | **Infra & FinOps patterns** | [Reference architecture](#reference-architecture) below |
 | **Consulting / freelance** | [siebert.cv/consulting](https://siebert.cv/en/consulting) |
+| **Clone & explore code** | [Public repos](#public-repos) above — e.g. `AWS_grocery`, `InstaScraper` |
 | **Full CV, projects, publications** | [siebert.cv](https://siebert.cv) |
 
-Bug reports, ideas, or architecture questions → open an **issue** on the matching repo (tender-agent for AI/procurement, portfolio-private for the website).
+Architecture or EU-tender workflow questions → [consulting](https://siebert.cv/en/consulting) or email. Code feedback → **issues** on the public repo that fits.
 
 ---
 
