@@ -1,53 +1,70 @@
 <h1 align="center">Daniel Siebert</h1>
 
 <p align="center">
-  <strong>Cloud FinOps · Infrastructure · AI Automation</strong><br/>
-  Executive profile & consulting → <a href="https://siebert.cv">siebert.cv</a>
+  <strong>Cloud FinOps & Financial Operations · AWS · Infrastructure as Code · AI automation</strong><br/>
+  Stuttgart, DE · CV, projects, consulting → <a href="https://siebert.cv">siebert.cv</a> (DE/EN)
 </p>
 
 <p align="center">
   <a href="https://siebert.cv"><img src="https://img.shields.io/badge/Portfolio-siebert.cv-38C2FF?style=flat-square" alt="Portfolio" /></a>
-  <a href="https://siebert.cv/en/projects"><img src="https://img.shields.io/badge/Flagship-Tender_Agent_(private)-7B42BC?style=flat-square" alt="Tender Agent" /></a>
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS SA" />
-  <img src="https://img.shields.io/badge/FinOps-Certified_Practitioner-FFD700?style=flat-square&logoColor=black" alt="FinOps CP" />
+  <a href="https://www.credly.com/badges/b0636d98-bade-44df-8a5b-3312e3711bf8/public_url"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS SAA" /></a>
+  <a href="https://www.credly.com/badges/8e5d77af-10af-4853-ba3f-25a84711fd54/public_url"><img src="https://img.shields.io/badge/FinOps-Certified_Practitioner-FFD700?style=flat-square" alt="FinOps CP" /></a>
 </p>
 
 ---
 
-## What this profile is for
+## Focus
 
-GitHub is my **technical workspace** — code, architecture, issues, and reproducible experiments.  
-For CV, consulting, publications, and the full story: **[siebert.cv](https://siebert.cv)** (DE/EN).
+FinOps Engineer and AWS Cloud Solutions Architect. Background: 15+ years in finance, controlling, SAP and IT management. Current work: Cloudability-based cost evidence, a CI-driven weekly FinOps source pipeline, configuration-as-code for Targetprocess, and platform engineering on GCP/AWS — including consulting client engagements.
 
----
-
-## Flagship (private, in active use)
-
-| Project | What it does |
-|---------|----------------|
-| [**Tender Agent**](https://siebert.cv/en/projects) | Multi-agent EU procurement pipeline — LangGraph, Grok (xAI), human-in-the-loop chapter drafting. **Private** while in production use; context on [siebert.cv](https://siebert.cv/en/projects). |
-
-## Public repos
-
-| Repo | What it does |
-|------|----------------|
-| [**AWS_grocery**](https://github.com/DanielSiebert-dev/AWS_grocery) | Terraform AWS stack — immutable EC2 rollouts, RDS, CI/CD deployment |
-| [**InstaScraper**](https://github.com/DanielSiebert-dev/InstaScraper) | Modular scraping with proxy rotation, scheduling, SQLite persistence |
-| [**GitHub-Stats-Visualization**](https://github.com/DanielSiebert-dev/GitHub-Stats-Visualization) | Custom language & activity charts for GitHub profiles |
-
-Other production work (`layered-infra`, FinOps Lambdas, [siebert.cv](https://siebert.cv) codebase) stays private — architecture walkthroughs on request.
+GitHub is the technical workspace; CV and consulting details live on [siebert.cv](https://siebert.cv).
 
 ---
 
-## Technical focus
+## Current work (repositories private or company-owned)
+
+| Project | Technical summary |
+|---------|-------------------|
+| **Cloudability evidence pipeline** (consulting) | Pulls customer views from the Cloudability EU API (host allow-list, key only in process env). AWS rightsizing per service (EC2, EBS, S3, RDS, EIP), GCP (GCE, MIGs, disks), commitments across AWS/Azure/GCP with 1y/3y kept apart. Each pull = evidence folder: request log, SHA-256 per page, explicit currency or gap, coverage check (row count, unique resources, total). Workbook built separately; console and API values never share a cell. |
+| **Weekly FinOps source desk** (consulting) | Per ISO week: source pack + HTML newsletter from primary sources (AWS/Azure/GCP blogs, FinOps Foundation, FOCUS, AI vendors). Scoring/mix selection, optional LLM call for the lede only, send lock per week, GitHub Actions as release path, tested pack build. |
+| **Targetprocess configuration pipeline** (consulting) | Extractor to versioned JSON snapshots; generated as-built docs, entity-model diagram, snapshot changelog, rule dependency graph, health check. Provisioner back into Targetprocess with explicit dry-run; deletes blocked by default; sandbox/prod separated. |
+| **HappyImmo platform** | Four repos (Infrastructure, DataPool, Backend, Frontend). Terraform, ephemeral Cloud SQL PostgreSQL 16 + PostGIS, Workload Identity Federation for keyless GitHub Actions, budget alerts. 41 versioned Python ETL ingestion domains. Node 24 Express (Pino, prom-client) → PgBouncer (transaction pooling) → Postgres. Vite/React/TS frontend. Prometheus, Grafana, Loki. |
+| **Tender Agent** | Multi-agent EU procurement pipeline: LangGraph, Grok (xAI), auditable gates, human-in-the-loop chapter drafting. |
+| **siebert.cv** | Next.js 16 App Router (Turbopack), React 19, TypeScript, DE/EN i18n, Vercel Analytics, GitHub Actions CI on Node 24 (CV content contract, 31 HTTP E2E + 49 Playwright viewport checks). |
+
+Details: [siebert.cv/en/projects](https://siebert.cv/en/projects).
+
+## Public repositories
+
+| Repo | Technical summary |
+|------|-------------------|
+| [AWS_grocery](https://github.com/DanielSiebert-dev/AWS_grocery) | Fork (Masterschool cloud track): Terraform + Bash, immutable EC2 rollouts via ASG, Secrets Manager, bastion deploy, RDS PostgreSQL, Nginx static hosting. |
+| [InstaScraper](https://github.com/DanielSiebert-dev/InstaScraper) | Python, Instaloader, Oxylabs proxy rotation, scheduling, deduplication, SQLite persistence, email notifications. |
+| [GitHub-Stats-Visualization](https://github.com/DanielSiebert-dev/GitHub-Stats-Visualization) | Python: custom language/activity charts for GitHub profiles. |
+
+---
+
+## Stack
 
 | Area | Tools |
 |------|-------|
-| **Cloud & IaC** | AWS, Terraform, Docker, VPC, RDS, Lambda, IAM/OIDC |
-| **FinOps** | Cost Explorer, tagging governance, budgets, auto-stop, right-sizing |
-| **Engineering** | Python, TypeScript, Next.js, PostgreSQL, Playwright |
-| **AI & automation** | LangGraph, Grok, n8n, Obsidian workflows, document pipelines |
-| **Edge & ops** | Caddy, WireGuard, SSH+mTLS, GitHub Actions, k6, Terratest |
+| **Cloud** | AWS (EC2, RDS, Lambda, VPC, IAM/OIDC, Secrets Manager, SSM, KMS, CloudWatch), GCP (Cloud SQL, Cloud Run, WIF) |
+| **IaC / DevOps** | Terraform, Docker, Docker Compose, Kubernetes, GitHub Actions, Bash |
+| **FinOps** | Cloudability (IBM Apptio), AWS cost transparency, tagging governance, budgets, rightsizing, commitments, FOCUS |
+| **Observability / Edge** | Prometheus, Grafana, Loki, CloudWatch, Caddy, WireGuard, PgBouncer |
+| **Languages / Web** | Python, TypeScript, JavaScript, Next.js, React, FastAPI, REST, Tailwind CSS |
+| **Data** | PostgreSQL/PostGIS, SQLite, ETL, GeoPandas |
+| **AI / Automation** | LangGraph, Grok (xAI), human-in-the-loop, n8n, Playwright |
+| **Finance / ERP** | SAP FI/CO, PS, MM, SD; cost center, project and IT controlling; ITFM |
+
+## Certifications
+
+- AWS Certified Solutions Architect – Associate · [Credly](https://www.credly.com/badges/b0636d98-bade-44df-8a5b-3312e3711bf8/public_url)
+- AWS Certified Cloud Practitioner · [Credly](https://www.credly.com/badges/8e43f1a6-9041-4a01-bf7a-487e17030854/public_url)
+- FinOps Certified Practitioner (FinOps Foundation) · [Credly](https://www.credly.com/badges/8e5d77af-10af-4853-ba3f-25a84711fd54/public_url)
+- IBM Apptio Cloudability Technical Sales Intermediate · [Credly](https://www.credly.com/badges/6b20a6b0-4475-4966-b0f7-d8af0ab6bd13/public_url)
+- IBM Cloudability Essentials Practitioner Advanced · [Credly](https://www.credly.com/badges/296686af-e8dd-4fb6-a360-75f9b3b67ff7/public_url)
+- IBM Cloudability Sales Foundation · [Credly](https://www.credly.com/badges/474cccff-e4a0-4447-883a-7b8d049a6745/public_url)
 
 ---
 
@@ -100,27 +117,12 @@ Private AWS environments I design around a **split edge + app plane** — TLS at
 
 ---
 
-## Start here
+## Contact
 
-| If you want to… | Go here |
-|-----------------|---------|
-| **EU tenders + multi-agent AI** | [siebert.cv/projects](https://siebert.cv/en/projects) — Tender Agent (private flagship) |
-| **Infra & FinOps patterns** | [Reference architecture](#reference-architecture) below |
-| **Consulting / freelance** | [siebert.cv/consulting](https://siebert.cv/en/consulting) |
-| **Clone & explore code** | [Public repos](#public-repos) above — e.g. `AWS_grocery`, `InstaScraper` |
-| **Full CV, projects, publications** | [siebert.cv](https://siebert.cv) |
+- Web: [siebert.cv](https://siebert.cv)
+- Appointment: [cal.com/daniel-siebert-for-you](https://cal.com/daniel-siebert-for-you/30min)
+- LinkedIn: [daniel--siebert](https://www.linkedin.com/in/daniel--siebert/)
+- Email: [daniel@siebert.cv](mailto:daniel@siebert.cv)
+- Code questions: issues on the relevant public repo
 
-Architecture or EU-tender workflow questions → [consulting](https://siebert.cv/en/consulting) or email. Code feedback → **issues** on the public repo that fits.
-
----
-
-## Connect
-
-- **Consulting:** [cal.com/daniel-siebert-for-you](https://cal.com/daniel-siebert-for-you/30min)
-- **LinkedIn:** [daniel--siebert](https://www.linkedin.com/in/daniel--siebert/)
-- **Email:** [daniel@siebert.cv](mailto:daniel@siebert.cv)
-- **Issues & PRs:** preferred for anything code-related
-
----
-
-*Last updated: July 2026*
+*Last updated: October 2026*
